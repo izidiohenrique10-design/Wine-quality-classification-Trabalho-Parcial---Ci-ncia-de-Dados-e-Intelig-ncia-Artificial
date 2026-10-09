@@ -1,2 +1,2 @@
-# Wine-quality-classification-Trabalho-Parcial---Ci-ncia-de-Dados-e-Intelig-ncia-Artificial
+# Classificação-de-vinho-Trabalho-Parcial---Ciencia-de-Dados-e-Inteligencia-Artificial
 Classificação da qualidade de vinhos com Machine Learning
